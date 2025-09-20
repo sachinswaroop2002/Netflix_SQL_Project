@@ -1,1 +1,1 @@
-# Netflix_SQL_Project
+# Netflix Movies and TV shows Data Amalysis using SQL
